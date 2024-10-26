@@ -1,0 +1,35 @@
+@media only screen and (max-width:620px){
+
+
+.navbar{
+    display: flex;
+}
+.logo{
+    padding-left: 20px;
+}
+.middle{
+    display: none;
+}
+.card{
+    width: 70% !important;
+    margin-bottom: 40px;
+}
+
+.ender{
+    padding-right: 20px;
+}
+
+.product-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px !important;
+    padding-top: 30px;
+
+    
+}
+
+
+
+}
